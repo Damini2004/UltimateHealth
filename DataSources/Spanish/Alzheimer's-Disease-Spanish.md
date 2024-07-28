@@ -6,6 +6,7 @@ El Alzheimer es un tipo de trastorno neurológico progresivo que contribuye prin
 
 Es un trastorno caracterizado por el depósito de placas amiloides y ovillos neurofibrilares en el cerebro y, finalmente, por la muerte de las células cerebrales. Esto finalmente conducirá a una pérdida progresiva de las funciones cognitivas, donde los pacientes tienen dificultades para realizar las actividades diarias. Se deben aprender los síntomas y estrategias de atención para comprender cómo afrontar la enfermedad y cuidar a su ser querido.
 
+
 <img src="https://vajiram-prod.s3.ap-south-1.amazonaws.com/What_is_Alzheimer_s_Disease_fa85f9b7f5.jpg" alt="Alzheimer's Disease" style="width:100%; height:400px; object-fit:contain;"/>
 
 ## Síntomas de la enfermedad de Alzheimer
